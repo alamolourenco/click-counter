@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-weight: normal;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.botao {
+    font: normal 12pt Arial;
+    height: 80px;
+    width: 180px;
+}
+
+#contar {
+    height: 82px;
+    width: 170.69px;
+}
+
+#zerar {
+    height: 82px;
+    width: 182.28px;
+}
+
+div {
+    font: normal 12pt Arial;
+}
